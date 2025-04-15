@@ -37,6 +37,33 @@ export function Portfolio() {
       description:
         "A professional medical practice website built with WordPress featuring custom design and functionality.",
     },
+    {
+      title: "Savannah Endodontic Associates",
+      category: "CMS WordPress",
+      image:
+        "https://raw.githubusercontent.com/Muhzinsinu/avatar/58f01f20c9950ec90a72b26c844e45613aeec6b6/Savannah.png",
+      link: "https://savannahendo.com/",
+      description:
+        "A professional medical practice website built with WordPress featuring custom design and functionality.",
+    },
+    {
+      title: "Savannah Endodontic Associates",
+      category: "CMS WordPress",
+      image:
+        "https://raw.githubusercontent.com/Muhzinsinu/avatar/58f01f20c9950ec90a72b26c844e45613aeec6b6/Savannah.png",
+      link: "https://savannahendo.com/",
+      description:
+        "A professional medical practice website built with WordPress featuring custom design and functionality.",
+    },
+    {
+      title: "Savannah Endodontic Associates",
+      category: "CMS WordPress",
+      image:
+        "https://raw.githubusercontent.com/Muhzinsinu/avatar/58f01f20c9950ec90a72b26c844e45613aeec6b6/Savannah.png",
+      link: "https://savannahendo.com/",
+      description:
+        "A professional medical practice website built with WordPress featuring custom design and functionality.",
+    },
   ]
 
   return (
