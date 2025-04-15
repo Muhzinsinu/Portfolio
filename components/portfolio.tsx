@@ -12,7 +12,7 @@ type PortfolioItemProps = {
 export function Portfolio() {
   const portfolioItems: PortfolioItemProps[] = [
     {
-      title: "Vagibiom",
+      title: "VagiBiom",
       category: "Ecommerce Shopify",
       image:
         "https://raw.githubusercontent.com/Muhzinsinu/avatar/c19c9ce7a676c02d975b5af5bcba2e704fc78f3b/Vagibiom%20(2).png",
