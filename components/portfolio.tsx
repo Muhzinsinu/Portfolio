@@ -15,54 +15,54 @@ export function Portfolio() {
       title: "Vagibiom",
       category: "Ecommerce Shopify",
       image:
-        "https://raw.githubusercontent.com/Muhzinsinu/avatar/58f01f20c9950ec90a72b26c844e45613aeec6b6/Vagibiom%20(1).png",
+        "https://raw.githubusercontent.com/Muhzinsinu/avatar/c19c9ce7a676c02d975b5af5bcba2e704fc78f3b/Vagibiom%20(2).png",
       link: "https://vagibiom.com/",
       description:
         "An ecommerce store built with Shopify featuring custom theme modifications and optimized product pages.",
     },
     {
+      title: "Savannah Endodontic Associates",
+      category: "CMS WordPress",
+      image:
+        "https://raw.githubusercontent.com/Muhzinsinu/avatar/58f01f20c9950ec90a72b26c844e45613aeec6b6/Savannah.png",
+      link: "https://savannahendo.com/",
+      description:
+        "A professional medical practice website built with WordPress featuring custom design and functionality.",
+    },
+    {
+      title: "Istorestm",
+      category: "Electronics & Accessories Ecommerce",
+      image:
+        "https://raw.githubusercontent.com/Muhzinsinu/avatar/b24116a4e39319fef7f892e57178f2571009661a/Istorestm.png",
+      link: "https://istorestm.com/",
+      description:
+        "A modern ecommerce store built with Shopify featuring custom design and tech-focused product collections.",
+    },
+    {
+      title: "Harken Audiology",
+      category: "CMS WordPress",
+      image:
+        "https://raw.githubusercontent.com/Muhzinsinu/avatar/b24116a4e39319fef7f892e57178f2571009661a/Harken.png",
+      link: "https://www.harkenaudiology.com.au/",
+      description:
+        "A professional audiology site built with WordPress featuring custom design and hearing care service integration.",
+    },
+    {
+      title: "U.S. Pickleball",
+      category: "CMS WordPress",
+      image:
+        "https://raw.githubusercontent.com/Muhzinsinu/avatar/main/Pickleball.png",
+      link: "/",
+      description:
+        "An official sports site built with WordPress featuring custom design and resources for the pickleball community.",
+    },
+     {
       title: "Kidorable",
       category: "Ecommerce Shopify",
       image:
         "https://raw.githubusercontent.com/Muhzinsinu/avatar/58f01f20c9950ec90a72b26c844e45613aeec6b6/Kidorable.png",
       link: "https://kidorable.com/",
       description: "A children's product ecommerce site with custom Shopify theme and enhanced user experience.",
-    },
-    {
-      title: "Savannah Endodontic Associates",
-      category: "CMS WordPress",
-      image:
-        "https://raw.githubusercontent.com/Muhzinsinu/avatar/58f01f20c9950ec90a72b26c844e45613aeec6b6/Savannah.png",
-      link: "https://savannahendo.com/",
-      description:
-        "A professional medical practice website built with WordPress featuring custom design and functionality.",
-    },
-    {
-      title: "Savannah Endodontic Associates",
-      category: "CMS WordPress",
-      image:
-        "https://raw.githubusercontent.com/Muhzinsinu/avatar/58f01f20c9950ec90a72b26c844e45613aeec6b6/Savannah.png",
-      link: "https://savannahendo.com/",
-      description:
-        "A professional medical practice website built with WordPress featuring custom design and functionality.",
-    },
-    {
-      title: "Savannah Endodontic Associates",
-      category: "CMS WordPress",
-      image:
-        "https://raw.githubusercontent.com/Muhzinsinu/avatar/58f01f20c9950ec90a72b26c844e45613aeec6b6/Savannah.png",
-      link: "https://savannahendo.com/",
-      description:
-        "A professional medical practice website built with WordPress featuring custom design and functionality.",
-    },
-    {
-      title: "Savannah Endodontic Associates",
-      category: "CMS WordPress",
-      image:
-        "https://raw.githubusercontent.com/Muhzinsinu/avatar/58f01f20c9950ec90a72b26c844e45613aeec6b6/Savannah.png",
-      link: "https://savannahendo.com/",
-      description:
-        "A professional medical practice website built with WordPress featuring custom design and functionality.",
     },
   ]
 
