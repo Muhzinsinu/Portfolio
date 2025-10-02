@@ -154,9 +154,6 @@ export default function Home() {
               ]}
             />
           </div>
-        </div>
-        <div className="container mx-auto px-4">
-          <h2 className="text-4xl font-bold mb-12 text-center">Work Experience</h2>
           <div className="space-y-12 max-w-3xl mx-auto">
             <ExperienceItem
               title="Web Developer"
