@@ -154,7 +154,10 @@ export default function Home() {
               ]}
             />
           </div>
-          <div className="space-y-12 max-w-3xl mx-auto" style="margin-top:15px;">
+         <div
+  className="space-y-12 max-w-3xl mx-auto"
+  style={{ marginTop: '15px' }}
+>
             <ExperienceItem
               title="Web Developer"
               company="Up2 Tech Kunnamkulam"
