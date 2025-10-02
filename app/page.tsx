@@ -216,7 +216,7 @@ export default function Home() {
                   <MapPin className="w-5 h-5 text-purple-500 mt-1 mr-3" />
                   <div>
                     <h4 className="font-medium">Location</h4>
-                    <p className="text-gray-300">Tirur, Kerala</p>
+                    <p className="text-gray-300">Dubai, UAE</p>
                   </div>
                 </div>
                 <div className="flex items-start">
