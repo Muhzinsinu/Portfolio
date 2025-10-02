@@ -40,7 +40,7 @@ export default function Home() {
               <a href="https://github.com/Muhzinsinu" target="_blank" aria-label="GitHub" rel="noreferrer">
                 <Github className="w-6 h-6 text-white hover:text-purple-500 transition-colors" />
               </a>
-              <a href="mailto:muhsinsinu573@gmail.com" aria-label="Email">
+              <a href="mailto:muhassin573@gmail.com" aria-label="Email">
                 <Mail className="w-6 h-6 text-white hover:text-purple-500 transition-colors" />
               </a>
             </div>
@@ -144,7 +144,22 @@ export default function Home() {
           <h2 className="text-4xl font-bold mb-12 text-center">Work Experience</h2>
           <div className="space-y-12 max-w-3xl mx-auto">
             <ExperienceItem
-              title="Frontend Developer"
+              title="Web Designer"
+              company="Up2 Tech Kunnamkulam"
+              period="2025 - Present"
+              description={[
+                "Created user-friendly layouts with a focus on UI/UX best practices",
+                "Optimized websites for speed, SEO, and mobile compatibility",
+                "Maintained and updated existing websites to improve functionality and performance",
+              ]}
+            />
+          </div>
+        </div>
+        <div className="container mx-auto px-4">
+          <h2 className="text-4xl font-bold mb-12 text-center">Work Experience</h2>
+          <div className="space-y-12 max-w-3xl mx-auto">
+            <ExperienceItem
+              title="Web Developer"
               company="Up2 Tech Kunnamkulam"
               period="2024 - Present"
               description={[
@@ -211,13 +226,14 @@ export default function Home() {
                   <Mail className="w-5 h-5 text-purple-500 mt-1 mr-3" />
                   <div>
                     <h4 className="font-medium">Email</h4>
-                    <p className="text-gray-300">Muhsinsinu573@gmail.com</p>
+                    <p className="text-gray-300">Muhassin573@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">
                   <Phone className="w-5 h-5 text-purple-500 mt-1 mr-3" />
                   <div>
                     <h4 className="font-medium">Phone</h4>
+                    <p className="text-gray-300">(+971) 56-805-2880</p>
                     <p className="text-gray-300">(+91) 83048-42865</p>
                   </div>
                 </div>
@@ -242,7 +258,7 @@ export default function Home() {
                     <Github className="w-5 h-5" />
                   </a>
                   <a
-                    href="mailto:muhsinsinu573@gmail.com"
+                    href="mailto:muhassin573@gmail.com"
                     className="bg-gray-800 p-3 rounded-full hover:bg-purple-500 transition-colors"
                   >
                     <Mail className="w-5 h-5" />
